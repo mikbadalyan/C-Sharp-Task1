@@ -10,7 +10,7 @@ for (int i = 0; i < rows; i++)
     {
         chess_board[i, j] = 0;
     }
-}
+} 
 //
 
 //Placing the knight in a random location.
